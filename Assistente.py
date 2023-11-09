@@ -1,3 +1,8 @@
+#Autor: Gabriel Santos
+#09 nov. 2023
+#assistente pessoal
+
+
 from openai import OpenAI
 client = OpenAI(
     api_key= "sk-*******amnkadoLYeR8fT3BlbkFJs2yh6pFG1Va92Wa97nx8"
